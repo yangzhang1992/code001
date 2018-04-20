@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/github/WebCollector/.idea/WebCollector.iml" filepath="E:/github/WebCollector/.idea/WebCollector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nj.iml" filepath="$PROJECT_DIR$/.idea/nj.iml" />
+      <module fileurl="file://E:/github/pyspider/.idea/pyspider.iml" filepath="E:/github/pyspider/.idea/pyspider.iml" />
+      <module fileurl="file://E:/github/snake-ai/.idea/snake-ai.iml" filepath="E:/github/snake-ai/.idea/snake-ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sz/.idea/sz.iml" filepath="$PROJECT_DIR$/../sz/.idea/sz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

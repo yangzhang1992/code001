@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/3701A/manifest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aais" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/manifests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools_scripts" vcs="Git" />
+    <mapping directory="E:/github/WebCollector" vcs="Git" />
+    <mapping directory="E:/github/pyspider" vcs="Git" />
+    <mapping directory="E:/github/snake-ai" vcs="Git" />
+  </component>
+</project>
